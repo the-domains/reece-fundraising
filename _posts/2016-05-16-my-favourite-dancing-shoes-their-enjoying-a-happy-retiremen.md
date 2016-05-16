@@ -4,13 +4,14 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Half the people who have ever met me probably remember me for dancing rather than anything else. But I've always been hugely embarassed by this, and normally need a little Dutch courage before so much as taping a toe. "
-datePublished: '2016-05-16T14:31:41.833Z'
-dateModified: '2016-05-16T14:31:10.068Z'
-title: My favourite dancing shoes. Their enjoying a happy retirement now.
+description: "I also hate cameras at these times, which is odd as I normally don't mind making a fool of myself."
+datePublished: '2016-05-16T14:33:40.428Z'
+dateModified: '2016-05-16T14:33:33.933Z'
+title: My favourite dancing shoes
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-16-my-favourite-dancing-shoes-their-enjoying-a-happy-retiremen.md
 authors: []
 publisher:
   name: null
@@ -18,14 +19,14 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-16-my-favourite-dancing-shoes-their-enjoying-a-happy-retiremen.md
 url: my-favourite-dancing-shoes-their-enjoying-a-happy-retiremen/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92c45f74-85f6-4a2a-be1a-eb7c0be748b4.jpg)
+# Charity Dance
 
 Half the people who have ever met me probably remember me for dancing rather than anything else. But I've always been hugely embarassed by this, and normally need a little Dutch courage before so much as taping a toe.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92c45f74-85f6-4a2a-be1a-eb7c0be748b4.jpg)
 
 I also hate cameras at these times, which is odd as I normally don't mind making a fool of myself.
 
