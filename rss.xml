@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Reece.Fundraising]]></title>
         <description><![CDATA[Reece.Fundraising]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reece-fundraising/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 14:31:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 14:33:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reece-fundraising/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[My favourite dancing shoes. Their enjoying a happy retirement now.]]></title>
-            <description><![CDATA[<article><h1>My favourite dancing shoes. Their enjoying a happy retirement now.</h1><p>Half the people who have ever met me probably remember me for dancing rather than anything else. But I've always been hugely embarassed by this, and normally need a little Dutch courage before so much as taping a toe.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92c45f74-85f6-4a2a-be1a-eb7c0be748b4.jpg"></article>]]></description>
-            <link>undefinedmy-favourite-dancing-shoes-their-enjoying-a-happy-retiremen/index.html</link>
+            <title><![CDATA[My favourite dancing shoes]]></title>
+            <description><![CDATA[<article><h1>My favourite dancing shoes</h1><p>I also hate cameras at these times, which is odd as I normally don't mind making a fool of myself.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92c45f74-85f6-4a2a-be1a-eb7c0be748b4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/reece-fundraising/my-favourite-dancing-shoes-their-enjoying-a-happy-retiremen/index.html</link>
             <guid isPermaLink="false">0e2c1454-4cff-4e59-baa4-bcb6795f304e</guid>
-            <pubDate>Mon, 16 May 2016 14:31:41 GMT</pubDate>
+            <pubDate>Mon, 16 May 2016 14:33:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
