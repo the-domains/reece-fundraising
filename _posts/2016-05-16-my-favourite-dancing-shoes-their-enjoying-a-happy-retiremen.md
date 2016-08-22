@@ -4,14 +4,17 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "I also hate cameras at these times, which is odd as I normally don't mind making a fool of myself."
-datePublished: '2016-05-16T14:33:40.428Z'
-dateModified: '2016-05-16T14:33:33.933Z'
+description: >-
+  I also hate cameras at these times, which is odd as I normally don't mind
+  making a fool of myself.
+datePublished: '2016-08-22T18:10:32.686Z'
+dateModified: '2016-05-16T14:33:47.582Z'
 title: My favourite dancing shoes
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-05-16-my-favourite-dancing-shoes-their-enjoying-a-happy-retiremen.md
+sourcePath: >-
+  _posts/2016-05-16-my-favourite-dancing-shoes-their-enjoying-a-happy-retiremen.md
 authors: []
 publisher:
   name: null
